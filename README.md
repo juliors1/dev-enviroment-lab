@@ -4,11 +4,11 @@
 
 my-dev-environment
 
-OS darwin19.0
+OS linux-gnu
 
 Shell/bin/zsh
 
-zsh location /bin/zsh
+zsh location /usr/bin/zsh
 
 nvm version 0.33.5
 
